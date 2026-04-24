@@ -1,0 +1,42 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dylib
+*.bat
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+obj/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Project-specific (if needed)
+# Exclude compiled utilities but not source
+populate.exe
+
+# Keep database.txt for reference
+# Uncomment if you want to ignore it
+# database.txt
